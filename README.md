@@ -24,7 +24,7 @@ publicados; os demais ainda estão em andamento.
 
 - [x] [SAP-ECC-erp-study](https://github.com/igor-barral/SAP-ECC-erp-study)
 - [x] [SAP-S4HANA-erp-study](https://github.com/igor-barral/SAP-S4HANA-erp-study)
-- [ ] [SAP-S4HANA-On-Premise-erp-study](https://github.com/igor-barral/SAP-S4HANA-On-Premise-erp-study)
+- [x] [SAP-S4HANA-On-Premise-erp-study](https://github.com/igor-barral/SAP-S4HANA-On-Premise-erp-study)
 - [ ] [SAP-S4HANA-Cloud-Private-Edition-erp-study](https://github.com/igor-barral/SAP-S4HANA-Cloud-Private-Edition-erp-study)
 - [ ] [SAP-S4HANA-Cloud-Public-Edition-erp-study](https://github.com/igor-barral/SAP-S4HANA-Cloud-Public-Edition-erp-study)
 - [ ] [RISE-with-SAP-erp-study](https://github.com/igor-barral/RISE-with-SAP-erp-study)
