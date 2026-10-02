@@ -30,7 +30,7 @@ publicados; os demais ainda estão em andamento.
 - [x] [RISE-with-SAP-erp-study](https://github.com/igor-barral/RISE-with-SAP-erp-study)
 - [x] [GROW-with-SAP-erp-study](https://github.com/igor-barral/GROW-with-SAP-erp-study)
 - [x] [SAP-Enterprise-Structure-erp-study](https://github.com/igor-barral/SAP-Enterprise-Structure-erp-study)
-- [ ] [SAP-Business-Partner-erp-study](https://github.com/igor-barral/SAP-Business-Partner-erp-study)
+- [x] [SAP-Business-Partner-erp-study](https://github.com/igor-barral/SAP-Business-Partner-erp-study)
 - [ ] [SAP-RICEFW-erp-study](https://github.com/igor-barral/SAP-RICEFW-erp-study)
 - [ ] [SAP-MM-erp-study](https://github.com/igor-barral/SAP-MM-erp-study)
 - [ ] [SAP-SD-erp-study](https://github.com/igor-barral/SAP-SD-erp-study)
