@@ -34,7 +34,7 @@ publicados; os demais ainda estão em andamento.
 - [x] [SAP-RICEFW-erp-study](https://github.com/igor-barral/SAP-RICEFW-erp-study)
 - [x] [SAP-MM-erp-study](https://github.com/igor-barral/SAP-MM-erp-study)
 - [x] [SAP-SD-erp-study](https://github.com/igor-barral/SAP-SD-erp-study)
-- [ ] [SAP-FI-erp-study](https://github.com/igor-barral/SAP-FI-erp-study)
+- [x] [SAP-FI-erp-study](https://github.com/igor-barral/SAP-FI-erp-study)
 - [ ] [SAP-CO-erp-study](https://github.com/igor-barral/SAP-CO-erp-study)
 - [ ] [SAP-WM-erp-study](https://github.com/igor-barral/SAP-WM-erp-study)
 - [ ] [SAP-EWM-erp-study](https://github.com/igor-barral/SAP-EWM-erp-study)
