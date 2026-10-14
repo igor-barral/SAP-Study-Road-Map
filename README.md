@@ -37,7 +37,7 @@ publicados; os demais ainda estão em andamento.
 - [x] [SAP-FI-erp-study](https://github.com/igor-barral/SAP-FI-erp-study)
 - [x] [SAP-CO-erp-study](https://github.com/igor-barral/SAP-CO-erp-study)
 - [x] [SAP-WM-erp-study](https://github.com/igor-barral/SAP-WM-erp-study)
-- [ ] [SAP-EWM-erp-study](https://github.com/igor-barral/SAP-EWM-erp-study)
+- [x] [SAP-EWM-erp-study](https://github.com/igor-barral/SAP-EWM-erp-study)
 - [ ] [SAP-Procure-to-Pay-erp-study](https://github.com/igor-barral/SAP-Procure-to-Pay-erp-study)
 - [ ] [SAP-Order-to-Cash-erp-study](https://github.com/igor-barral/SAP-Order-to-Cash-erp-study)
 
