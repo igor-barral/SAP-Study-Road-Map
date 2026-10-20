@@ -44,7 +44,7 @@ publicados; os demais ainda estão em andamento.
 ### Fase 1
 
 - [x] [SAP-BTP-devops-study](https://github.com/igor-barral/SAP-BTP-devops-study)
-- [ ] [SAP-BTP-ABAP-Environment-devops-study](https://github.com/igor-barral/SAP-BTP-ABAP-Environment-devops-study)
+- [x] [SAP-BTP-ABAP-Environment-devops-study](https://github.com/igor-barral/SAP-BTP-ABAP-Environment-devops-study)
 - [ ] [ABAP-Development-Tools-devops-study](https://github.com/igor-barral/ABAP-Development-Tools-devops-study)
 - [ ] [abapGit-devops-study](https://github.com/igor-barral/abapGit-devops-study)
 - [ ] [SAP-gCTS-devops-study](https://github.com/igor-barral/SAP-gCTS-devops-study)
