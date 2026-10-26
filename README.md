@@ -51,7 +51,7 @@ publicados; os demais ainda estão em andamento.
 
 ### Fase 2
 
-- [ ] [ABAP-language-study](https://github.com/igor-barral/ABAP-language-study)
+- [x] [ABAP-language-study](https://github.com/igor-barral/ABAP-language-study)
 - [ ] [ABAP-Internal-Tables-language-study](https://github.com/igor-barral/ABAP-Internal-Tables-language-study)
 - [ ] [ABAP-SQL-db-study](https://github.com/igor-barral/ABAP-SQL-db-study)
 - [ ] [SAP-HANA-db-study](https://github.com/igor-barral/SAP-HANA-db-study)
