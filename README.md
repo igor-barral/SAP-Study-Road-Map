@@ -53,7 +53,7 @@ publicados; os demais ainda estão em andamento.
 
 - [x] [ABAP-language-study](https://github.com/igor-barral/ABAP-language-study)
 - [x] [ABAP-Internal-Tables-language-study](https://github.com/igor-barral/ABAP-Internal-Tables-language-study)
-- [ ] [ABAP-SQL-db-study](https://github.com/igor-barral/ABAP-SQL-db-study)
+- [x] [ABAP-SQL-db-study](https://github.com/igor-barral/ABAP-SQL-db-study)
 - [ ] [SAP-HANA-db-study](https://github.com/igor-barral/SAP-HANA-db-study)
 - [ ] [AMDP-db-study](https://github.com/igor-barral/AMDP-db-study)
 - [ ] [ADBC-db-study](https://github.com/igor-barral/ADBC-db-study)
