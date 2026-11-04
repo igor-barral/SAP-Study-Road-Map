@@ -57,7 +57,7 @@ publicados; os demais ainda estão em andamento.
 - [x] [SAP-HANA-db-study](https://github.com/igor-barral/SAP-HANA-db-study)
 - [x] [AMDP-db-study](https://github.com/igor-barral/AMDP-db-study)
 - [x] [ADBC-db-study](https://github.com/igor-barral/ADBC-db-study)
-- [ ] [ABAP-OO-softwarearchitecture-study](https://github.com/igor-barral/ABAP-OO-softwarearchitecture-study)
+- [x] [ABAP-OO-softwarearchitecture-study](https://github.com/igor-barral/ABAP-OO-softwarearchitecture-study)
 - [ ] [ABAP-Unit-softwarearchitecture-study](https://github.com/igor-barral/ABAP-Unit-softwarearchitecture-study)
 - [ ] [Clean-ABAP-softwarearchitecture-study](https://github.com/igor-barral/Clean-ABAP-softwarearchitecture-study)
 - [ ] [ABAP-Test-Cockpit-softwarearchitecture-study](https://github.com/igor-barral/ABAP-Test-Cockpit-softwarearchitecture-study)
