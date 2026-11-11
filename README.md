@@ -62,7 +62,7 @@ publicados; os demais ainda estão em andamento.
 - [x] [Clean-ABAP-softwarearchitecture-study](https://github.com/igor-barral/Clean-ABAP-softwarearchitecture-study)
 - [x] [ABAP-Test-Cockpit-softwarearchitecture-study](https://github.com/igor-barral/ABAP-Test-Cockpit-softwarearchitecture-study)
 - [x] [abaplint-devops-study](https://github.com/igor-barral/abaplint-devops-study)
-- [ ] [sap-freight-calculation-case](https://github.com/igor-barral/sap-freight-calculation-case)
+- [x] [sap-freight-calculation-case](https://github.com/igor-barral/sap-freight-calculation-case)
 
 ### Fase 3
 
