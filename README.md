@@ -67,7 +67,7 @@ publicados; os demais ainda estão em andamento.
 ### Fase 3
 
 - [x] [ABAP-Dictionary-db-study](https://github.com/igor-barral/ABAP-Dictionary-db-study)
-- [ ] [CDS-View-Entities-db-study](https://github.com/igor-barral/CDS-View-Entities-db-study)
+- [x] [CDS-View-Entities-db-study](https://github.com/igor-barral/CDS-View-Entities-db-study)
 - [ ] [SAP-VDM-softwarearchitecture-study](https://github.com/igor-barral/SAP-VDM-softwarearchitecture-study)
 - [ ] [CDS-Access-Control-security-study](https://github.com/igor-barral/CDS-Access-Control-security-study)
 
